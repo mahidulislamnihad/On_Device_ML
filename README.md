@@ -55,7 +55,6 @@ esp32_env_classifier/
 │ └─ model_data.cpp # TFLite model bytes
 ├─ platformio.ini # PlatformIO project config
 ├─ README.md # This document
-└─ Colab/ # Training and conversion notebooks (to be added)
 
 ---
 
